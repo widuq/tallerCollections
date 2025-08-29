@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84f7ec1-f1c5-421e-beb8-6a68c5257a64" name="Changes" comment="" />
+    <list default="true" id="d84f7ec1-f1c5-421e-beb8-6a68c5257a64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto12/conteoConcurrente/ConteoAccesos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto16/planificadorImpresiones/MainPlanificadorImpresiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto16/planificadorImpresiones/Trabajo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto20/tarifasTramos/MainPeaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto20/tarifasTramos/TarifasPeaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto8/agendaReuniones/MainAgendaReuniones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/punto8/agendaReuniones/Reunion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="31w6PbJ7SHW9prrMj8TOHauljrY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,14 +39,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaReuniones.executor": "Run",
+    "Application.ConteoAccesos.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainAgendaReuniones.executor": "Run",
     "Application.MainMesaAyuda.executor": "Run",
+    "Application.MainPeaje.executor": "Run",
+    "Application.MainPlanificadorImpresiones.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/wilson/Documentos/tallerCollections/tallerCollections/collectionsJava/src/main/java/punto1/libros",
+    "last_opened_file_path": "/home/wilson/Documentos/tallerCollections/tallerCollections/collectionsJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +82,12 @@
       <option name="presentableId" value="Default" />
       <updated>1756422766070</updated>
       <workItem from="1756422767014" duration="6469000" />
+      <workItem from="1756440475087" duration="76000" />
+      <workItem from="1756440600102" duration="83000" />
+      <workItem from="1756440799554" duration="45000" />
+      <workItem from="1756444586859" duration="1790000" />
+      <workItem from="1756486136723" duration="5118000" />
+      <workItem from="1756503734280" duration="5062000" />
     </task>
     <servers />
   </component>
