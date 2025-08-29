@@ -9,6 +9,11 @@ public class Comparadores {
         }
     }
 
+    public static class PorAnioRecientes implements Comparator<Libro> {
+        public int compare(Libro l1, Libro l2) {
+            return Integer.compare(l2.getYear(), l1.getYear()); // Descendente
+        }
+    }
     public static class PorAutor implements Comparator<Libro> {
         public int compare(Libro l1, Libro l2) {
             return l1.getAutor().compareToIgnoreCase(l2.getAutor());
